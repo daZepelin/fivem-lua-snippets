@@ -1,0 +1,25 @@
+{
+	"name": "fivem-lua-snippets",
+	"description": "FiveM Lua Snippets by daZepelin",
+	"version": "0.0.1",
+	"publisher": "daZepelin",
+	"engines": {
+		"vscode": "^1.8.0"
+	},
+	"categories": [
+	"Snippets",
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "lua",
+				"path": "./snippets/lua.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dhawton/vsc-fivem.git"
+	},
+	"license": "apache"
+}
