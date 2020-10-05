@@ -1,13 +1,15 @@
 {
 	"name": "fivem-lua-snippets",
+	"displayName": "FiveM Lua Snippets by daZepelin",
 	"description": "FiveM Lua Snippets by daZepelin",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "daZepelin",
+	"icon": "images/fivem-lua-snippets-logo.png",
 	"engines": {
 		"vscode": "^1.8.0"
 	},
 	"categories": [
-	"Snippets",
+	"Snippets"
 	],
 	"contributes": {
 		"snippets": [
@@ -19,7 +21,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dhawton/vsc-fivem.git"
+		"url": "https://github.com/daZepelin/fivem-lua-snippets.git"
 	},
 	"license": "apache"
 }
