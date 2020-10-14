@@ -2,7 +2,7 @@
 	"name": "fivem-lua-snippets",
 	"displayName": "FiveM Lua Snippets by daZepelin",
 	"description": "FiveM Lua Snippets by daZepelin",
-	"version": "0.1.3",
+	"version": "0.2.3",
 	"publisher": "daZepelin",
 	"icon": "images/fivem-lua-snippets-logo.png",
 	"engines": {
